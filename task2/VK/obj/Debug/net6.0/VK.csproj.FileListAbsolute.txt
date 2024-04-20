@@ -1,0 +1,15 @@
+C:\Users\Антон\RiderProjects\VK\VK\bin\Debug\net6.0\VK.exe
+C:\Users\Антон\RiderProjects\VK\VK\bin\Debug\net6.0\VK.deps.json
+C:\Users\Антон\RiderProjects\VK\VK\bin\Debug\net6.0\VK.runtimeconfig.json
+C:\Users\Антон\RiderProjects\VK\VK\bin\Debug\net6.0\VK.dll
+C:\Users\Антон\RiderProjects\VK\VK\bin\Debug\net6.0\VK.pdb
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.csproj.AssemblyReference.cache
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.AssemblyInfoInputs.cache
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.AssemblyInfo.cs
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.dll
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\refint\VK.dll
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.pdb
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\VK.genruntimeconfig.cache
+C:\Users\Антон\RiderProjects\VK\VK\obj\Debug\net6.0\ref\VK.dll
