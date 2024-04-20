@@ -65,7 +65,7 @@ def launch_game(game_path: str):
 
 url = 'https://drive.usercontent.google.com/download?id=1IGENwFzLm8bBEboISadYSNEdxbnjz1fH&export=download&authuser=0'
 filename = 'settings.reg'
-game_dir_path = r'D:\SteamLibrary\steamapps\common\Goose Goose Duck'  # задать свой путь к директории с игрой
+game_dir_path = r'D:\SteamLibrary\steamapps\common\Goose Goose Duck'  # РїСѓС‚СЊ Рє РґРёСЂРµРєС‚РѕСЂРёРё СЃ РёРіСЂРѕР№
 
 file_path = rf'{game_dir_path}\{filename}'
 
