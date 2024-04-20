@@ -5,6 +5,7 @@ import time
 import requests
 from subprocess import Popen, DEVNULL
 
+
 def download_n_save_file(url: str, path: str):
     try:
         data = {
@@ -46,7 +47,7 @@ def launch_game(game_path: str):
     if not os.path.exists(game_path):
         print('Game file is not exist.')
         exit(0)
-        
+
     process = subprocess.Popen(game_path,
                                shell=True,
                                stdout=DEVNULL,
