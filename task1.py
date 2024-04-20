@@ -46,6 +46,10 @@ def update_registry(reg_file_path: str):
 
 
 def launch_game(game_path: str):
+    if not os.path.exists(game_path):
+        print('Game file is not exist.')
+        exit(0)
+        
     process = subprocess.Popen(game_path,
                                shell=True,
                                stdout=DEVNULL,
