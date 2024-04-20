@@ -5,9 +5,6 @@ import time
 import requests
 from subprocess import Popen, DEVNULL
 
-ENCODING = 'utf-8'
-
-
 def download_n_save_file(url: str, path: str):
     try:
         data = {
