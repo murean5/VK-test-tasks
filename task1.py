@@ -1,6 +1,5 @@
 import os.path
 import subprocess
-import time
 
 import requests
 from subprocess import Popen, DEVNULL
